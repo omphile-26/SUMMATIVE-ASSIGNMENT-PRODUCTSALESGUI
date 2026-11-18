@@ -1,0 +1,7 @@
+DATA LOG
+*****************************
+Customer Name: RI CONNECT
+Product: Sealy Phuket
+VAT: R 15000.0
+COMMISSION: R 5000.0
+TOTAL: R 120000.0
